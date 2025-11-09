@@ -1,4 +1,4 @@
-const archivoDeAmbiente = "./ambiente.json";
+const archivoDeAmbiente = "./ambiente.json"; // archivo de desarrollo.
 let apiUrl = "";
 
 async function traer() {
