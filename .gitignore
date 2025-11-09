@@ -1,4 +1,4 @@
 node_modules
 .env
 
-ambiente.json
+front/ambiente.json
